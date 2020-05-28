@@ -1,9 +1,9 @@
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-host_address = "shubhamkhandelwal523@gmail.com"
-host_pass = "549021916shUB"
-guest_address = "shubhamkhandelwal523@gmail.com"
+host_address = "smtp.mailtrap.io"
+host_pass = "309237c38dd98e"
+guest_address = "roshanilalwani1111@gmail.com"
 subject = "Regarding Success of your model "
 content = '''Hello, 
 				Developer used the commit and it is successfully run . The mail is sent No failed comes up
